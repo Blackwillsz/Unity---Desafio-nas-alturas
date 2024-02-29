@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\Unity\\Desafio nas alturas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4798035-E885-F6B6-2EB9-4AEFF9F06F1C}|Assembly-CSharp.csproj|D:\\workspace\\Unity\\Desafio nas alturas\\assets\\scripts\\aviao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4798035-E885-F6B6-2EB9-4AEFF9F06F1C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aviao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4798035-E885-F6B6-2EB9-4AEFF9F06F1C}|Assembly-CSharp.csproj|d:\\workspace\\unity\\desafio nas alturas\\assets\\scripts\\obstaculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4798035-E885-F6B6-2EB9-4AEFF9F06F1C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4798035-E885-F6B6-2EB9-4AEFF9F06F1C}|Assembly-CSharp.csproj|D:\\workspace\\Unity\\Desafio nas alturas\\assets\\scripts\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4798035-E885-F6B6-2EB9-4AEFF9F06F1C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4798035-E885-F6B6-2EB9-4AEFF9F06F1C}|Assembly-CSharp.csproj|D:\\workspace\\Unity\\Desafio nas alturas\\assets\\scripts\\pontuacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4798035-E885-F6B6-2EB9-4AEFF9F06F1C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pontuacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pontuacao.cs",
+              "DocumentMoniker": "D:\\workspace\\Unity\\Desafio nas alturas\\Assets\\Scripts\\Pontuacao.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pontuacao.cs",
+              "ToolTip": "D:\\workspace\\Unity\\Desafio nas alturas\\Assets\\Scripts\\Pontuacao.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pontuacao.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:36:30.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Diretor.cs",
+              "DocumentMoniker": "D:\\workspace\\Unity\\Desafio nas alturas\\Assets\\Scripts\\Diretor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Diretor.cs",
+              "ToolTip": "D:\\workspace\\Unity\\Desafio nas alturas\\Assets\\Scripts\\Diretor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Diretor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:51:20.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aviao.cs",
+              "DocumentMoniker": "D:\\workspace\\Unity\\Desafio nas alturas\\Assets\\Scripts\\Aviao.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Aviao.cs",
+              "ToolTip": "D:\\workspace\\Unity\\Desafio nas alturas\\Assets\\Scripts\\Aviao.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Aviao.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:00:45.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Obstaculo.cs",
+              "DocumentMoniker": "D:\\workspace\\Unity\\Desafio nas alturas\\Assets\\Scripts\\Obstaculo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstaculo.cs",
+              "ToolTip": "D:\\workspace\\Unity\\Desafio nas alturas\\Assets\\Scripts\\Obstaculo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstaculo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:06:52.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
